@@ -1,6 +1,6 @@
-# AWS - LAMBDA - TESTS
+# AWS LAMBDA CRUD
 I made this project in order to test how AWS Lambda, DynamoDB and API Gateway work and how may i work with them through Go language.
-What i made is a simple CRUD of users where you can [ create, fetch by id, fetch all and delete by id ] users.
+What i made is a simple CRUD of users where you can [CREATE], [FETCH BY ID], [FETCH ALL] and [DELETE BY ID] users from a DynamoDB table using AWS Lambda.
 
 
 ## How to run the project:
